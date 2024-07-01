@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Edge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Edge",
+  "parent":{
+    "name":"Pathfinding",
+    "path":"folders/Scripts/Pathfinding.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

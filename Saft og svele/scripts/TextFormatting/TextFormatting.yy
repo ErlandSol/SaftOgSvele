@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"TextFormatting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextFormatting",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

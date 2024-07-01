@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"TextAlignment",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextAlignment",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

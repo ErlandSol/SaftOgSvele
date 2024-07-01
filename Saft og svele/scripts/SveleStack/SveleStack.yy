@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"SveleStack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SveleStack",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+ladderCount = instance_place_list(x,y,oLadder,ladders,false);
